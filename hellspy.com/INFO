@@ -1,0 +1,10 @@
+{
+"name": "hellspy.com",
+"hostprefix": "www.hellspy.com",
+"displayname": "HellSpy.com",
+"version": "1.0.0",
+"authentication": "yes",
+"module": "hellspy.php",
+"class": "SynoFileHostingHellSpy",
+"description": "Premium account for HellSpy.com"
+}
